@@ -1,1 +1,1 @@
-<python ChangeTime.py "img.jpg" -9>
+'''python ChangeTime.py "img.jpg" -9'''
